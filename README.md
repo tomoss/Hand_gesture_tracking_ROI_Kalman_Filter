@@ -1,4 +1,4 @@
-# Hand gesture tracking system using Adaptive Kalman Filter
+# Hand gesture tracking system using ROI method and Adaptive Kalman Filter
 
 An Implementation of:
 
