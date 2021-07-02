@@ -8,3 +8,11 @@ MATLAB Implementation of:
 
 usage:
 run `KALMANmethod.m` or `ROImethod.m`
+
+Parameters that need to be tuned are the mean and standard deviation:
+```
+u_cb = 120.3846; 
+u_cr = 150.7692;
+sigma_cb = 37.136041;
+sigma_cr = 13.80914;
+```
